@@ -137,3 +137,9 @@ child_growth %>%
   geom_point(alpha = .5)
 ```
 
+Add change point term
+
+```{r}
+
+```
+
